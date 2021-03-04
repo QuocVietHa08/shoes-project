@@ -1,0 +1,17 @@
+.order {
+  width: 100%;
+  height: auto;
+  padding: 10px 15px;
+  margin: 20px;
+  position: relative;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  &__id {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    span {
+      font-weight: bold;
+    }
+  }
+}

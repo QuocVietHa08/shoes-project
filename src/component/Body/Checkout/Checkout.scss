@@ -1,0 +1,17 @@
+.checkout {
+  width: 90%;
+  margin: 20px auto;
+  &__up {
+    div {
+      h2 {
+        padding-left: 20px;
+        padding-top: 20px;
+        font-size: 25px;
+        border-bottom: 1px solid #ddd;
+      }
+    }
+  }
+  &__down {
+    padding-bottom: 25px;
+  }
+}
