@@ -1,3 +1,23 @@
+#some of it's picture
+Main homepage
+![](https://github.com/QuocVietHa08/shoes-project/blob/master/src/Image/app.png);
+
+Footer page and shoe
+![](https://github.com/QuocVietHa08/shoes-project/blob/master/src/Image/shoes_part2.png);
+
+Login into your account
+![](https://github.com/QuocVietHa08/shoes-project/blob/master/src/Image/authentication.png);
+
+Check your basket
+![](https://github.com/QuocVietHa08/shoes-project/blob/master/src/Image/orders.png);
+
+Pay your bill
+![](https://github.com/QuocVietHa08/shoes-project/blob/master/src/Image/payment.png);
+
+If you are the ower of the store- check your money thought stripe
+![](https://github.com/QuocVietHa08/shoes-project/blob/master/src/Image/stripe.png);
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
